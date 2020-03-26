@@ -32,8 +32,8 @@ function App() {
     <div className="container">
       <div className="row top">
           <div className="twelve columns">
-            {/* <h1 className="title-name">Jeff Barroso</h1> */}
-            {/* <h2>Software Engineering</h2> */}
+            <h1 className="title-name">Jeff Barroso</h1>
+            <h2>Software Engineering</h2>
             <div className="py-5">
               <div className="output" id="output">
                 <h1 className="cursor"> </h1>
